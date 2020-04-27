@@ -37,3 +37,4 @@ git reset --mixed cid (local to workspace)
 git reset --hard cid ( to delete info)
 
 
+welcome to git commands
